@@ -1,1 +1,10 @@
-start 
+This web scrapping project can be runned as follows:-
+
+keep the code and the logo image in the same file directory
+
+
+I have used this as an example url you can use any of your choice
+ https://books.toscrape.com/
+
+this website is supported to seb scrape their details 
+this scrapped data is converted and saved as CSV file to get the data in arranged form.
